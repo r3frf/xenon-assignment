@@ -7,5 +7,6 @@ Aman Singh
 (ii) You can use editors for making files, like SublimeText or Visual Studio.
 
 2 How to try :
+
 (i) After downloading the repository, open the Files folder, and run the "main.py" file. 
 This is the first default page.
