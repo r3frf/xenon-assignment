@@ -1,9 +1,9 @@
 # xenon-assignment
 Aman Singh
 
-1. Setup instructions :
-(i) Download the Repository using download zip, or using command prompt, by clicking on "Code" option above.
+<h1>1. Setup Instructions :</h1>
 
+(i) Download the Repository using download zip, or using command prompt, by clicking on "Code" option above.
 (ii) You can use editors for making files, like SublimeText or Visual Studio.
 
 2 How to try :
@@ -25,6 +25,10 @@ these detail store in database in encripted manner .
 after enter the detail if its correct than your id open 
 and show succesful message 
 ![Screenshot 2022-11-10 002450](https://user-images.githubusercontent.com/104215224/200916956-38f55723-4b8e-4acd-b29d-7cc7eb0c8885.jpg)
+for any query you click connect button and share your review
+![Screenshot 2022-11-10 000612](https://user-images.githubusercontent.com/104215224/200917304-3216d423-49a9-4c9e-97bd-56e5d4800f8a.jpg)
+
+
 
 
 
