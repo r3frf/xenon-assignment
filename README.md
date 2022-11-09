@@ -9,7 +9,7 @@
 <h1>2. How to try :</h1>
 
 (i) After downloading the repository, open the Files folder, and run the "main.py" file to get the link for webpage in the run terminal. The link will direct you to main HTML file.
-This is the first default page.
+This is the Home page.
 ![Screenshot 2022-11-10 000545](https://user-images.githubusercontent.com/104215224/200914584-ed8bba9d-0799-44ec-84b4-f55f748fdfd9.jpg)
 
 (ii) Click on register button.  
