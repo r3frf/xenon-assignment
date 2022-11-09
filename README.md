@@ -1,5 +1,5 @@
 # xenon-assignment
-Aman Singh
+<h1>Aman Singh</h1>
 
 <h1>1. Setup Instructions :</h1>
 
