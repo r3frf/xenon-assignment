@@ -16,7 +16,7 @@ This is the first default page.
 The registeration page opens.
 ![Screenshot 2022-11-10 000600](https://user-images.githubusercontent.com/104215224/200915842-9be7c0f8-181f-4e16-861a-fbd38805ee6a.jpg)
 
-After providing required details( These details will be stored in database in encripted form .), click on "Submit" button and immidiately you will be directed to Login page. 
+After providing required details(These details will be stored in database in encripted form), click on "Submit" button and immidiately you will be directed to Login page. 
 ![Screenshot 2022-11-10 002241](https://user-images.githubusercontent.com/104215224/200916401-ad3e5d5a-3a63-4941-9665-c915b3e45754.jpg)
 
 (iii) Enter the login credentials to gain access to your account.
