@@ -10,3 +10,4 @@ Aman Singh
 
 (i) After downloading the repository, open the Files folder, and run the "main.py" file. 
 This is the first default page.
+![Screenshot 2022-11-10 000545](https://user-images.githubusercontent.com/104215224/200914584-ed8bba9d-0799-44ec-84b4-f55f748fdfd9.jpg)
